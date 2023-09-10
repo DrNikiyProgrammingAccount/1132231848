@@ -1,0 +1,3 @@
+C:/Users/mega_/Documents/GitHub/1132231848/task_42_for_14.09/cmake-build-debug/CMakeFiles/task_42_for_14_09.dir
+C:/Users/mega_/Documents/GitHub/1132231848/task_42_for_14.09/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mega_/Documents/GitHub/1132231848/task_42_for_14.09/cmake-build-debug/CMakeFiles/rebuild_cache.dir
